@@ -5,9 +5,10 @@
 
 ## 👨‍💻 About Me
 
-I am a **Frontend Developer** passionate about building modern, responsive, and user-friendly web applications. My primary focus is on creating clean and interactive interfaces using **React** and modern UI tools. 
+I am a Frontend Developer (MERN Stack Enthusiast) passionate about building modern, responsive, and user-friendly web applications. I focus on creating clean, interactive interfaces using React, JavaScript, and modern UI tools.
 
-Alongside front-end development, I am also exploring the **MERN Stack** and continuously learning new technologies like **Next.js** to expand my full-stack development skills.
+Alongside front-end development, I am expanding my skills in the MERN stack and exploring technologies like Next.js to strengthen my full-stack development capabilities. I enjoy learning new technologies and continuously improving my development skills.
+
 
 ---
 
