@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Frontend Developer (MERN Stack Enthusiast) passionate about building modern, responsive, and user-friendly web applications. I focus on creating clean, interactive interfaces using React, JavaScript, and modern UI tools.
+I am a Frontend Developer || MERN Stack Developer passionate about building modern, responsive, and user-friendly web applications. I focus on creating clean, interactive interfaces using React, JavaScript, and modern UI tools.
 
 Alongside front-end development, I am expanding my skills in the MERN stack and exploring technologies like Next.js to strengthen my full-stack development capabilities. I enjoy learning new technologies and continuously improving my development skills.
 
@@ -41,7 +41,7 @@ Alongside front-end development, I am expanding my skills in the MERN stack and 
 <p align="left">
 <a href="mailto:fuadhasan740266@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/khandokar-fuad-hasan-656815386/?skipRedirect=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://fuad-dev.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"></a>
+<a href="https://fuad-portfolio-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"></a>
 </p>
 
 ---
