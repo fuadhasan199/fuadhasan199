@@ -14,8 +14,8 @@ Alongside front-end development, I am expanding my skills in the MERN stack and 
 
 ## 🚀 Current Focus & Activities
 
-- 🔭 I’m currently building a **Boighor Website** to create a simple and user-friendly online book platform.
-- 🌱 I have recently started learning **Next.js** to explore modern React frameworks.
+- 🔭 I’m currently building a **Care.io** to create a simple and user-friendly medical services platform.
+- 🌱I have learned Next.js and explored its features for building modern, scalable, and production-ready React applications.
 - 📚 In my free time, I revise and strengthen my **JavaScript fundamentals**.
 
 
@@ -45,12 +45,18 @@ Alongside front-end development, I am expanding my skills in the MERN stack and 
 </p>
 
 ---
-
-## 📊 GitHub Streak Stats
-
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadhasan199&theme=tokyonight" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fuadhasan199&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fuadhasan199&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
