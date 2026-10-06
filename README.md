@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Khandokar Fuad Hasan.png" width="100%" alt="Fuad Hasan Banner">
+  <img src="github banar.png" width="100%" alt="Fuad Hasan Banner">
 </p>    
 
 
